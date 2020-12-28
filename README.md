@@ -1,6 +1,7 @@
 # Stickers thief bot
 
 I made this bot because I was exausted of wasting my time looking for _that_ perfect sticker to use among all my installed packs.
+![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fzeroone2numeral2%2Fsticker-thief)
 
 Features:
 
